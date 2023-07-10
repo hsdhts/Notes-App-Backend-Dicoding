@@ -1,2 +1,2 @@
 # notes-app-backend
-created by hapi js and postgresql
+created with hapi js and postgresql
